@@ -168,9 +168,9 @@ export default function Detail() {
                     </div>
 
                     <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-6 inline-block hover:bg-white/90 transition-all hover:scale-105 shadow-lg hover:shadow-pink-200">
-                        <p className="text-gray-700 text-lg mb-2">With all my love,</p>
+                        <p className="text-gray-700 text-lg mb-2">Created at,</p>
                         <p className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-red-500 bg-clip-text text-transparent animate-gradient">
-                            Your Forever Valentine 💕
+                            9 Feb 2026 💕
                         </p>
                     </div>
 
