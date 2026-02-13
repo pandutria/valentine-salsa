@@ -105,7 +105,7 @@ export default function Home() {
                         Tanggal ultah Salsa - Bulan ultah Pengirim + Tanggal ultah Pengirim - Bulan ultah salsa - Tanggal Valentine
                       </p>
                       <p className="text-xs text-gray-500 mt-2 italic">
-                        {/* Format: DDMMYYYY (contoh: 25012000) */}
+                        Klo gk nemu, coba cht orang nya
                       </p>
                     </div>
                   )}
