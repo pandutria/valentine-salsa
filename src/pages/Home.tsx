@@ -7,7 +7,7 @@ export default function Home() {
   const [showHint, setShowHint] = useState<boolean>(false)
   const navigate = useNavigate()
   
-  const SECRET_CODE = "199" 
+  const SECRET_CODE = "1999" 
   
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
